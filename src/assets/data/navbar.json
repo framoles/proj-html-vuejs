@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "HOME"
+    },
+    {
+        "id": 2,
+        "name": "ELEMENTS"
+    },
+    {
+        "id": 3,
+        "name": "FEATURES"
+    },
+    {
+        "id": 4,
+        "name": "PAGES"
+    },
+    {
+        "id": 5,
+        "name": "PORTFOLIO"
+    },
+    {
+        "id": 6,
+        "name": "BLOG"
+    },
+    {
+        "id": 7,
+        "name": "SHOP"
+    }
+]
