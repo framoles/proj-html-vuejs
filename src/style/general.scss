@@ -11,6 +11,10 @@ $white-grey: #F7F7F7;
     display: flex;
 }
 
+.wrap {
+    flex-wrap: wrap;
+}
+
 .container {
-    padding-left: 264px;
+    padding: 0 264px;
 }
