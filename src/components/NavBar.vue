@@ -20,7 +20,7 @@ a {
   text-decoration: none;
   color: $nav-grey;
   font-size: 14px;
-  font-weight: bold;
+  font-weight: 900;
   &:hover {
     color: $bg-blue;
     transition: 200ms;
